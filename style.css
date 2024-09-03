@@ -1,0 +1,48 @@
+body{
+color: white;
+background-color:rgb(88, 53, 187);
+margin: 0px;
+font-family: "New Amsterdam", sans-serif;
+}
+
+#neyflix{
+    font-size: 30px;
+    color: rgb(88, 53, 187);
+}
+
+h2{
+    font-size: 40px;
+}
+
+h1{
+    font-size: 50px;
+    background-color: rgb(88, 53, 187);
+}
+
+p{
+font-size: 30px;
+}
+header{
+    background-color: black;
+    border: solid black;
+    margin: solid black;
+    width: 100%;
+    text-align: center;
+    padding-top: 5px;
+}
+
+section{
+    justify-content: center;
+    margin: 20px;
+}
+
+.videos{
+    width: 90px;
+    height: 60px;
+}
+
+.textos{
+    color: white;
+    text-align: start;
+    display: block;
+}
